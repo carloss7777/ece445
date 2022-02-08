@@ -1,2 +1,2 @@
-# ECE 445 Team 12
+# Aditya's Lab Notebook
 
