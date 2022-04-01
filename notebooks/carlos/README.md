@@ -62,4 +62,10 @@ In the team meeting that we had today, we have checked what went wrong with our 
 Furthermore, we spent some time looking for a laser and we made a call to an expert in lasers to get some extra advice.
 ## General TA Meting (03/25/2022):
 Since our parts haven't arrived we were worried about what we could do while we were waiting for them since we had planned to have already soldered the PCB. We decided to start with the GPS code. We also get some capacitors and resistors from the lab.
-## 
+## Parts Ordering #2 (03/28/2022):
+Today we had another inconvenient with the parts, our package was lost and we have met to re-order again everything. 
+## GPS Code (03/30/2022):
+Today, as planned we have started to do the code necessary for getting the GPS data and we talked about which were the following steps that we are going to take. We made important progress on the GPS code.
+## Laser Testing and Lab Notebook (03/31/2022):
+Today we met because our laser arrived this morning. We have tested the laser and it seems to work properly and is visible even if there is a sunny day.
+We also worked on our Lab Notebooks, updating all the work we have done during the previous weeks.
