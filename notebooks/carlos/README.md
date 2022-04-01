@@ -1,7 +1,7 @@
 # ECE 445 Team 12
 ## Machine Shop Meeting (02/01/2022):
 This was our first meeting with Greg. He gave us some feedback of our porject and he told us what kind of servomotor would be the best to control the angle of the laser.
-## TA Meeting (02/08/2022/:
+## TA Meeting (02/08/2022):
 In the first meeting with the TA, we solved our initial doubts. They were the following:
 
   - How to design our PCB and can we use arduino? The answer was that we have to design our PCB wich will be very similar to the one in the CAD assigment
@@ -41,6 +41,25 @@ Today we have presented our Design Document to professor Schuh, our TA Daniel an
 - We also have to put a reference to see which is the point from where we are measuring the angle
 - On the formatting aspect, we should put the table titles before the table and the images titles just below.
 - Finally, one TA made a point on the toleerance used to power the microcontroller, since if we fall below some voltage the MCU can have problems.
+## Laser Test (03/01/2022):
+Right after the Design Review, we went with Daniel to check our potential laser and we saw that we should look for another that is more visible.
 ## PCB Board Review (03/01/2022):
 We went to the PCB board review in order to solve our doubts with it and also we checked with the TAs that there weren't any visible errors on the design.
-
+## Team Meeting with TA to complete PCB and DDC (03/05/2022):
+Today we have met with Daniel via Zoom, to discuss about our DDC and make the lasts changes before submitting it. We also talked briefly about the PCB and Daniel solved our concerns about it. 
+## Order Parts 1 (03/05/2022):
+We have made our first order of parts
+## General TA meeting (03/07/2022):
+We had a last minute problem with our MCU since it run out of stock and we have to change the PCB inmediately for submitting it tomorrow. Daniel helped us finding a similar MCU to substitute our previous one and we decided to use the ATMega809.
+## PCB Order 1 (03/08/2022):
+Today we have finished to re-do the PCB with our new MCU and I send the Gerber Files to Daniel. 
+## Teamwork Evaluation (03/09/2022):
+We have completed the teamwork evaluation individually.
+## SPRING BREAK (03/11/2022 - 03/20/2022):
+During Spring we didn't work on the project, but we recived the notice that our parts deliver was rejected.
+## First Team Meeting After SP Break (03/23/2022):
+In the team meeting that we had today, we have checked what went wrong with our parts order. 
+Furthermore, we spent some time looking for a laser and we made a call to an expert in lasers to get some extra advice.
+## General TA Meting (03/25/2022):
+Since our parts haven't arrived we were worried about what we could do while we were waiting for them since we had planned to have already soldered the PCB. We decided to start with the GPS code. We also get some capacitors and resistors from the lab.
+## 
