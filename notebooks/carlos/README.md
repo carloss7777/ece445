@@ -32,5 +32,15 @@ Today we have met with our TA Daniel in order to doing the last check to our Des
 ## Meeting before Design Document Review (02/28/2022):
 On our weekly meeting with Daniel we have discussed some key aspects of our project:
   1. Daniel made a quick check on our PCB and he helped us with one step that we were stucked.
-  2. We talked about the parts that we should order
-  3. We made the last review of our Design Document and he told us 
+  2. We talked about the parts that we should order.
+  3. We made the last review of our Design Document and he told us how was the best way to present it.
+## Design Review (03/01/2022):
+Today we have presented our Design Document to professor Schuh, our TA Daniel and two TAs more. We have recived the following feedback:
+- One TA was concerned about the battery weight. We definetaly will have to be aware.
+- Professor Schuh made a good point on the refreshing time of the servomotor position. He recommended us to set a refreshing time of 3s to avoid any problem.
+- We also have to put a reference to see which is the point from where we are measuring the angle
+- On the formatting aspect, we should put the table titles before the table and the images titles just below.
+- Finally, one TA made a point on the toleerance used to power the microcontroller, since if we fall below some voltage the MCU can have problems.
+## PCB Board Review (03/01/2022):
+We went to the PCB board review in order to solve our doubts with it and also we checked with the TAs that there weren't any visible errors on the design.
+
