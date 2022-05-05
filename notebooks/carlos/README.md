@@ -69,3 +69,34 @@ Today, as planned we have started to do the code necessary for getting the GPS d
 ## Laser Testing and Lab Notebook (03/31/2022):
 Today we met because our laser arrived this morning. We have tested the laser and it seems to work properly and is visible even if there is a sunny day.
 We also worked on our Lab Notebooks, updating all the work we have done during the previous weeks.
+## Meeting with Daniel (04/01/2022):
+We discuss with our TA the progress and we talk about the PCB design and coding.
+## Picking up parts(04/05/2022):
+Today arrived the parts of our project, we tested initially some of the components in the breadboard and verified they were working.
+## Start Soldering (04/07/2022):
+We started by soldering the microcontroller with the microscope, and we also soldered the other parts except for the GPS Module, since it didnt arrived.
+## Picking up parts 2 (04/09/2022):
+There was a second deliver of our parts. As we did in the first time, we noticed that we were missing the crystal so we ordered a new one.
+## Testing day (04/11/2022):
+Today we've tested some subsystems. To do that we built the circuits on the breadboard and we did our R&V tables of the subsystem.
+## Flashing problem (04/12/2022):
+We tried to  flash our microcontroller, but we discovered that we couldn't do it with USB ASP, since they weren't compatible.
+## Flashing problem #2 (4/13/2022):
+Today we've tried to solve the problem of flashing the MCU but we realized that the UART pin neccesary for programming the PCB. We decided to move to an ATMega328p  and we order an arduino nano to grab the MCU from it.
+## Flashing problem #3 (04/14/2022):
+We changed the PCB to implement our new MCU. 
+## Order PCB round #3 (04/15/2022):
+We ordered the new PCB, and we did the R&V table for the buttons.
+## Breadboard circuit to flash the ATMega (04/17/2022):
+Today,we build on the breadboard the circuit to flash the ATMega with an Arduino UNO. We didn't flash it today because we had some issues.
+## Flashing the ATMega (04/18/2022):
+We solve the problem that we had yesterday and we managed to flash the ATMega.
+## Testing day #2 (04/19/2022):
+We tested all the subsystems with the ATMega328p in the breadboard.
+## Mock DEMO (04/20/2022):
+We show our progress to the TA.
+## PCB round #3 arrives (04/21/2022):
+Today we spent the whole day soldering and checking the correct working of our PCB. Once we had it, we flash our PCB and we programmed it.
+## Test LCD on PCB (04/22/2022):
+We connected the LCD to the PCB, we had some problems but they were solved on the same day. We started to work on the buttons.
+## 
