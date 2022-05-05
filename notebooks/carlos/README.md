@@ -99,4 +99,13 @@ We show our progress to the TA.
 Today we spent the whole day soldering and checking the correct working of our PCB. Once we had it, we flash our PCB and we programmed it.
 ## Test LCD on PCB (04/22/2022):
 We connected the LCD to the PCB, we had some problems but they were solved on the same day. We started to work on the buttons.
-## 
+## Locker Problem (04/23/2022):
+Our locker got stuck and we couldn't do anything today.
+## Locker Problem #2 (04/24/2022):
+We were able to open the lock.
+## Working on our design (04/25/2022):
+We managed to put everything together, including the GPS code and everything worked except for the servomotor.
+## Servomotor Problem (04/26/2022):
+We spent all the day trying to figure it out why out servomotor is not working. We believe is combination between the noise and not an enough voltage comming from the MCU pin. We build some lever-shifters but didn't solved the issue.
+## DEMO Presentation (04/27/2022):
+We spresented our work in front of the professor, TAs and peers.
